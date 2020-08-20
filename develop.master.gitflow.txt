@@ -3,3 +3,4 @@ this line is appended in develop.master.gitflow branch from local branch.
 this line should be appended to a non-protected branch.
 this line should be appended to a non-protected branch, to test pre-push git hook.
 this line should be appended to feature1.branch.
+this line should be appended to feature2.branch.
